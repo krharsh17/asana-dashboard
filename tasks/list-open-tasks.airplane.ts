@@ -17,7 +17,7 @@ export default airplane.task(
 			}
 		}
 	},
-	// This is your task's entrypoint. When your task is executed, this
+	// This is your task's entry point. When your task is executed, this
 	// function will be called.
 	async (params) => {
 		// Extract the API token from env variables
